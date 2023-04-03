@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  ![이름 배경 화면](https://user-images.githubusercontent.com/63357336/229418771-b2531dc5-a558-4094-a62b-1a64390ae74c.png)
+</h1>
+
+## Hi! 👋
+I'm MaDongChan, a 24 years old Game Client developer from South Korea.
+
+
+## Skills
 
 <!--
 **madongchan/madongchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
