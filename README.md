@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg](https://user-images.githubusercontent.com/63357336/229418771-b2531dc5-a558-4094-a62b-1a64390ae74c.png)" alt="MaDongChan" />
+  <img src="[[https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg]" alt="MaDongChan" />
 </h1>
 
 ## Hi! 👋
