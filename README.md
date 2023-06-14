@@ -9,8 +9,7 @@
 https://onesside-world.tistory.com/
 
 ### Skills
-![cplusplus](https://github.com/madongchan/madongchan/assets/63357336/920627f9-a732-476f-9fc8-b33bfd37eda4)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=https://github.com/madongchan/madongchan/assets/63357336/920627f9-a732-476f-9fc8-b33bfd37eda4logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-brightgreen?style=for-the-badge&logo=#239120&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
