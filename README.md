@@ -6,7 +6,7 @@
 👋 Hello, I'm MaDongChan, a 24 years old Game Client developer from South Korea.
 
 🚀 I am creating a blog where I discuss and study topics such as C++, C#, Unity game engine, coding tips, and everyday stories. If you are interested, please come and visit..
-https://onesside-world.tistory.com/
+[my dev blog]https://onesside-world.tistory.com/
 
 ### Skills
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
