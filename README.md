@@ -1,5 +1,4 @@
-<h1 align="center">![배너](https://github.com/madongchan/madongchan/assets/63357336/e003368c-d4f7-483e-9e45-7e858124255e)
-![배너](https://github.com/madongchan/madongchan/assets/63357336/4c037222-e2ab-4c76-b3bf-10a1bb782323)
+![banner](https://github.com/madongchan/madongchan/assets/63357336/b57da0f9-1dc7-4b45-b7ca-7112e56e2845)
 
   <img src="https://user-images.githubusercontent.com/63357336/229419207-c0bcba2d-048e-48e8-8ca9-e970014b9e36.png" alt="MaDongChan" />
 </h1>
