@@ -1,6 +1,6 @@
 ![banner](https://github.com/madongchan/madongchan/assets/63357336/b57da0f9-1dc7-4b45-b7ca-7112e56e2845)
 
-  <img src="https://user-images.githubusercontent.com/63357336/229419207-c0bcba2d-048e-48e8-8ca9-e970014b9e36.png" alt="MaDongChan" />
+  //<img src="https://user-images.githubusercontent.com/63357336/229419207-c0bcba2d-048e-48e8-8ca9-e970014b9e36.png" alt="MaDongChan" />
 </h1>
 
 ## Nice to meet you! 👋
